@@ -1,5 +1,5 @@
 # WARDEN
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://youtu.be/Lg7HlKYzPVw
 #### Description:
 Warden was a project based on the laziness of one particular person(me), since my desktop has latency issues while opening a range of tabs at once. So I thought that the concept of centralizing the information for my own convenience was a great idea, and sought out to construct said idea. It requests information from multiple APIs for things ranging from weather to the current news, and displays the information on a host website. The website itself is made with HTML, CSS, and JS for the front-end and Python for the back-end with Bootstrap and Flask to hold it all together. The project did everything I wanted it to achieve, since the APIs grabbed the information directed at the source without bothering to load in any of the surrounding elements and images which made my desktop slow, but the user could still navigate to the original websites through the various buttons. However, the website only contains information from Thailand, since other more wide-ranging APIs usually have a subscription fee.
 
